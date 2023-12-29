@@ -5,3 +5,7 @@ Hello World
 # Adding a new line to this file using GitHub's online text editor
 
 This is the new line
+
+# Adding a new line to this file using Local Sublime text editor
+
+This is another new line
