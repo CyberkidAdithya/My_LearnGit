@@ -9,3 +9,5 @@ This is the new line
 # Adding a new line to this file using Local Sublime text editor
 
 This is another new line
+
+# Adding a new file (file2) to this folder using Local Sublime text editor again
